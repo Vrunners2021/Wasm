@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasm", "Wasm\Wasm.csproj", "{22AC0F65-89AD-4BF9-BDBA-7E2E29B8DA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AC0F65-89AD-4BF9-BDBA-7E2E29B8DA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AC0F65-89AD-4BF9-BDBA-7E2E29B8DA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AC0F65-89AD-4BF9-BDBA-7E2E29B8DA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AC0F65-89AD-4BF9-BDBA-7E2E29B8DA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1D96AB-657D-4927-A4C6-E53C2D9B9A0D}
+	EndGlobalSection
+EndGlobal
